@@ -46,6 +46,4 @@ En este ejercicio se implementa un sistema para administrar eventos ordenados cr
 ### Resultado Esperado:
 El programa debe mostrar el próximo evento a ocurrir y la lista de eventos ordenada por fecha y hora. Además, los eventos pasados deben eliminarse automáticamente después de la consulta.
 
-## Requisitos:
-- Java 8 o superior.
-- Un archivo de texto (`texto.txt`) debe estar disponible en el mismo directorio del programa para el Ejercicio 1.
+
